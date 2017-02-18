@@ -1,1 +1,5 @@
-/*Your style here*/
+.info {
+  color: #ccc;
+  font-size: 60px;
+  padding: 30px;
+}
