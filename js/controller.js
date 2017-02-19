@@ -1,4 +1,7 @@
-app.controller('appController', function($scope){
+app.controller('appController', function($scope, $ionicPlatform){
+  $ionicPlatform.ready(function() {
 
+    //seu código aqui
 
+  });
 });
